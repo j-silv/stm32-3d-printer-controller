@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "stm32_nucleo_morpho")(type "KiCad")(uri "${KIPRJMOD}/libraries/stm32_morpho_connectors/stm32_nucleo.kicad_sym")(options "")(descr "Pin specified morpho connectors for STM32 NUCLEO-F446RE"))
+  (lib (name "driver_motor_pololu")(type "KiCad")(uri "${KIPRJMOD}/libraries/driver_motor_pololu/Driver_Motor_MT1704JS.kicad_sym")(options "")(descr "Slightly modified Pololu stepper driver symbol for use with MT1704JS motor"))
+)

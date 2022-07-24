@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "wuerth_connector")(type "KiCad")(uri "${KIPRJMOD}/libraries/screw_terminal_ul_691137710002/footprints.pretty")(options "")(descr "Screw terminal footprint"))
+  (lib (name "copper_text")(type "KiCad")(uri "${KIPRJMOD}/libraries/copper_text/footprints.pretty")(options "")(descr ""))
 )

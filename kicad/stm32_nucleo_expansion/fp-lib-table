@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "wuerth_connector")(type "KiCad")(uri "${KIPRJMOD}/libraries/screw_terminal_ul_691137710002/footprints.pretty")(options "")(descr "Screw terminal footprint"))
-  (lib (name "copper_text")(type "KiCad")(uri "${KIPRJMOD}/libraries/copper_text/footprints.pretty")(options "")(descr ""))
+  (lib (name "fuse")(type "KiCad")(uri "${KIPRJMOD}/libraries/fuse/fuse.pretty")(options "")(descr ""))
+  (lib (name "pololu")(type "KiCad")(uri "${KIPRJMOD}/libraries/driver_motor_pololu/pololu.pretty")(options "")(descr ""))
+  (lib (name "qr_code")(type "KiCad")(uri "${KIPRJMOD}/libraries/qr_code")(options "")(descr ""))
 )

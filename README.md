@@ -1,5 +1,5 @@
 # STM32 Nucleo 3D printer controller
-
+![Kicad schematic](./images/schema.png)
 This project concerns the replacement of a Teensylu 3D printer controller board for a [uDelta RepRap printer](https://reprap.org/wiki/Micro_Delta). An STM32 NUCLEO-F446RE expansion board (shield) is currently being developed as the replacement. After the board is designed and fabricated, the Marlin open source firmware will be configured for use with the Nucleo board.
 
 # Folder structure
@@ -43,8 +43,10 @@ I will be using a [S-240-12 12 V 240 W power supply](https://www.meanwellusa.com
 - [Typical 1.1 mA consumption](https://www.openhacks.com/uploadsproductos/eone-1602a1.pdf). At 5 V: 5 mW
 
 # PCB
-
 The shield is a 2-layer board fabricated by JLCPCB. It plugs directly into the NUCLEO-F446RE via two 38-pin morpho connectors.
+![Top and bottom layer view of PCB](./images/pcb.png)
+
+![3D view of PCB](./images/3d_pcb.png)
 
 # Acknowledgments
 
